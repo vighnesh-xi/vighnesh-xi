@@ -1,7 +1,7 @@
 # 💫 About Me
 <p align="center">
   <a href="https://github.com/vighnesh-xi">
-     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=Hi%2C+I%E2%80%99m+Vighnesh+Ise+%F0%9F%91%8B;AI+%26+Data+Science+Enthusiast+%F0%9F%A4%96;Skilled+in+Java+%26+Scalable+Applications+%F0%9F%92%BB;%F0%9F%9B%A0%EF%B8%8F+Passionate+about+Backend+Systems+%26+Architecture" alt="Typing SVG" />
+     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00C7B7&center=true&vCenter=true&width=700&lines=Hi%2C+I%E2%80%99m+Vighnesh+Ise+%F0%9F%91%8B;AI+%26+Data+Science+Enthusiast+%F0%9F%A4%96;Skilled+in+Java+%26+Scalable+Applications+%F0%9F%92%BB;%F0%9F%9B%A0%EF%B8%8F+Passionate+about+Backend+Systems+%26+Architecture" alt="Typing SVG" />
   </a>
 </p>
 
