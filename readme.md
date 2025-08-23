@@ -16,7 +16,7 @@
 - **Frameworks:** Spring Boot, REST APIs  
 - **Databases:** MySQL  
 - **Interests:** Big Data, Apache Kafka, Cloud Computing  
-- **Currently Learning:** Advanced Java, Spring Boot, REST API Development, Big Data Technologies  
+- **Currently Learning:** Advanced Java, Spring Boot, REST API Development and Integration, MongoDB
 
 ---
 
