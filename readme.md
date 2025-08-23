@@ -1,8 +1,13 @@
 # 💫 About Me
-Hi, I’m **Vighnesh Ise** 👋  
-🚀 Java and AI enthusiast passionate about building **scalable applications** and exploring **cutting-edge technologies**.  
-🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science**.  
-💡 I enjoy working on projects that bridge **software engineering** and **machine intelligence**.  
+<p align="center">
+  <a href="https://github.com/vighnesh-xi">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00C7B7&center=true&vCenter=true&width=500&lines=Hi%2C+I+am+Vighnesh+Ise;I+am+a+Java+Developer;I+am+an+AI+Enthusiast;And+an+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
+
+🚀 Passionate about building **scalable applications** and exploring **cutting-edge technologies**  
+🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science**  
+💡 Enjoys working on projects that bridge **software engineering** and **machine intelligence**  
 
 ---
 
