@@ -41,12 +41,13 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 
 ---
-
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=vighnesh-xi&theme=nord&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=vighnesh-xi&theme=nord&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vighnesh-xi&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vighnesh-xi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=vighnesh-xi&theme=tokyonight&hide_border=false" height="180"/>
+</p>
 
----
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vighnesh-xi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180"/>
+</p>
 ✨ *“Code. Learn. Build. Repeat.”*  
